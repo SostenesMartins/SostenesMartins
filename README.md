@@ -2,7 +2,7 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/frank-ricardo-r/">
+<a href="//www.linkedin.com/in/sóstenes-martins-336b491bb/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:frankjony17@gmail.com">
