@@ -19,7 +19,7 @@
 <hr />
 
 <div align="center">
-  <a href="https://github.com/frankjony17">
+  <a href="https://github.com/SostenesMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SostenesMartins&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SostenesMartins&layout=compact&langs_count=7&theme=gradient"/>
 </div>
